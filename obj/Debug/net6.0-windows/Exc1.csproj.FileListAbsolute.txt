@@ -1,0 +1,17 @@
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.Form1.resources
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.csproj.GenerateResource.cache
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.AssemblyInfoInputs.cache
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.AssemblyInfo.cs
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.csproj.CoreCompileInputs.cache
+D:\_UIT\CS511\Lesson 2\Exc1\bin\Debug\net6.0-windows\Exc1.exe
+D:\_UIT\CS511\Lesson 2\Exc1\bin\Debug\net6.0-windows\Exc1.deps.json
+D:\_UIT\CS511\Lesson 2\Exc1\bin\Debug\net6.0-windows\Exc1.runtimeconfig.json
+D:\_UIT\CS511\Lesson 2\Exc1\bin\Debug\net6.0-windows\Exc1.dll
+D:\_UIT\CS511\Lesson 2\Exc1\bin\Debug\net6.0-windows\Exc1.pdb
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.dll
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\refint\Exc1.dll
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.pdb
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.genruntimeconfig.cache
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\ref\Exc1.dll
+D:\_UIT\CS511\Lesson 2\Exc1\obj\Debug\net6.0-windows\Exc1.Properties.Resources.resources
